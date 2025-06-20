@@ -22,7 +22,7 @@ registered | Count of registered users |
 count | Total rental bikes count |
 
 ## 📝 Project Report
-- [Python Analysis File]()
+- [Python Analysis File](https://github.com/sandeepvadela/Yulu-Hypothesis-Testing-Case-Study-/blob/main/Business_Case_Yulu_Hypothesis_Testing.ipynb)
 - [Detailed PDF Report]()
 
  ## Insights 🔍
