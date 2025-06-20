@@ -23,7 +23,7 @@ count | Total rental bikes count |
 
 ## 📝 Project Report
 - [Python Analysis File](https://github.com/sandeepvadela/Yulu-Hypothesis-Testing-Case-Study-/blob/main/Business_Case_Yulu_Hypothesis_Testing.ipynb)
-- [Detailed PDF Report]()
+- [Detailed PDF Report](https://github.com/sandeepvadela/Yulu-Hypothesis-Testing-Case-Study-/blob/main/Business_Case_Yulu_Hypothesis_Testing.pdf)
 
  ## Insights 🔍
 - Date Range: January 1, 2011, to December 19, 2012.
